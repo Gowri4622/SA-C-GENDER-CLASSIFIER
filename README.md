@@ -43,4 +43,6 @@ print("Gender : ",result['gender'])
 ![Screenshot_717](https://user-images.githubusercontent.com/75235455/172542071-27da5290-1b11-47dd-858a-a8b410c703c1.png)
 
 2. DEMO VIDEO YOUTUBE LINK:
-[Link to Google](https://www.google.com)
+</br>
+Gender classification
+   https://youtu.be/RSu7BteW7u4
