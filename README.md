@@ -34,7 +34,14 @@ result2=DeepFace.analyze(img,actions=['emotion'])
 
 #print the gender
 print("Gender : ",result['gender'])
+
+
+
 ```
+</br>
+</br>
+</br>
+</br>
 
 ## OUTPUT:
 
